@@ -24,6 +24,6 @@ jobs:
 
       - name: Ejecutar script de Selenium
         run: |
-            python ci_integration.py
+            python integra.py
 
 
