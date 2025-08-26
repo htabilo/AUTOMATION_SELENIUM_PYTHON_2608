@@ -23,5 +23,5 @@ jobs:
           pip install -r requirements.txt
 
       - name: Run Selenium test
-        run: python ci_integracion.py
+        run: python integracion.py
 
